@@ -1,0 +1,7 @@
+fastapi==0.115.6
+pydantic==2.10.3
+python-dotenv==1.0.1
+tensorflow
+uvicorn==0.32.1
+kubernetes
+APScheduler
